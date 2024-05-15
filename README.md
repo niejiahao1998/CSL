@@ -2,7 +2,7 @@
 
 The official implementation of "Color Space Learning for Cross-Color Person Re-identification".
 
-More detailed information is in the [PAPER]().
+More detailed information is in the [the link will be provided soon]().
 
  Authors: [Jiahao Nie](https://scholar.google.com/citations?user=LGM10RQAAAAJ&hl=zh-CN&inst=8669986779262753491&oi=ao), [Shan Lin](https://scholar.google.com/citations?user=3MQDywkAAAAJ&hl=zh-CN&inst=8669986779262753491&oi=ao), [Alex C. Kot](https://scholar.google.com/citations?user=UGZXLxIAAAAJ&hl=zh-CN&inst=8669986779262753491&oi=ao)
 
