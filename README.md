@@ -15,7 +15,7 @@ More detailed information is in the [PAPER](https://arxiv.org/pdf/2405.09487).
 
 Please download and prepare SYSU-MM01 and RegDB datasets following [AGW](https://github.com/mangye16/Cross-Modal-Re-ID-baseline/)'s guidance.
 
-Please download our NTU-Corridor dataset from [ROSE Lab](https://rose1.ntu.edu.sg/dataset/NTU-Corridor/).
+Please download our NTU-Corridor dataset from [ROSE Lab](https://rose1.ntu.edu.sg/dataset/NTU-Corridor/), and download the [train/test split](https://github.com/niejiahao1998/CSL/tree/main/NTU-Corridor_train_test_split).
 
 ### Cloth-Changing Person ReID (CC-ReID)
 
